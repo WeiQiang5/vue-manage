@@ -12,4 +12,6 @@ cnpm run serve
 
 
 
-账号是admin 密码是admin
+有两个账号
+1.账号:admin 密码:admin
+2.账号:xiaoxiao 密码:xiaoxiao
